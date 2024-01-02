@@ -4,8 +4,10 @@
 I am Eng. Mirsad Vejsili. Last March I graduated from the Università degli Studi di Padova in Aerospace Engineering, Aeronautical curriculum. I worked at TXT e-tech as a consultant for Piaggio Aerospace. The project ended successfully last December. You can find some article and posts on my LinkedIn profile https://www.linkedin.com/in/mirsad-vejsili-563538199 , available also in both Italian and English languages.
 
 Now, I am ready to tackle new challenges.
+<p align="center">
+  <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_e450c41333cba82cc6ec0f2a4795315c_b8338fc2_500.webp" alt="Your Image Description" width=256 >
+</p>
 
--backslash <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_e450c41333cba82cc6ec0f2a4795315c_b8338fc2_500.webp" width=256 >
 
 # Skills: 
 * 🏆 MATLAB, GASTURB, ANSYS Fluent
