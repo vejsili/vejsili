@@ -5,7 +5,7 @@ I am Eng. Mirsad Vejsili. Last March I graduated from the Università degli Stud
 
 Now, I am ready to tackle new challenges.
 
-\ <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_e450c41333cba82cc6ec0f2a4795315c_b8338fc2_500.webp" width=256 >
+-backslash <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_e450c41333cba82cc6ec0f2a4795315c_b8338fc2_500.webp" width=256 >
 
 # Skills: 
 * 🏆 MATLAB, GASTURB, ANSYS Fluent
