@@ -14,10 +14,10 @@ Now, I am ready to tackle new challenges.
 </p>
 
 
-# Skills: 
-* 🏆 MATLAB, GASTURB, ANSYS Fluent
-* 🔧 Python, ANSYS CFX/Turbogrid/BladeGen, Gambit, Pointwise, LabVIEW, FORTRAN, openFOAM, SOLIDWORKS
-* 🔨 Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi
+## Skills: 
+* 🏆 [MATLAB ](path/to/your/file), GASTURB, ANSYS Fluent
+* 🔧 Python, Gambit, Pointwise, FORTRAN, openFOAM, SOLIDWORKS, LabVIEW, Wireshark
+* 🔨 ANSYS CFX/Turbogrid/BladeGen, Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi, GMAT, C
 
  <p align="center">
   <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_no8onn3Sks1qk4ealo4_500.gif" >
