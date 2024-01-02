@@ -5,7 +5,7 @@ I am Eng. Mirsad Vejsili. Last March I graduated from the Università degli Stud
 
 My first interests are propulsion and flight physics. I want to contribute to the next generation of aircraft engines and vehicles.
 <p align="center">
-  <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_no8onn3Sks1qk4ealo4_500.gif">
+  <img src="https://github.com/vejsili/vejsili/blob/main/giphy.gif">
 </p>
 
 Now, I am ready to tackle new challenges.
@@ -20,7 +20,7 @@ Now, I am ready to tackle new challenges.
 * 🔨 Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi
 
  <p align="center">
-  <img src="https://github.com/vejsili/vejsili/blob/main/giphy.gif" >
+  <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_no8onn3Sks1qk4ealo4_500.gif" >
 </p>
 
 
