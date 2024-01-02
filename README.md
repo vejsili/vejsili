@@ -4,7 +4,9 @@
 I am Eng. Mirsad Vejsili. Last March I graduated from the Università degli Studi di Padova in Aerospace Engineering, Aeronautical curriculum. I worked at TXT e-tech as a consultant for Piaggio Aerospace. The project ended successfully last December. You can find some article and posts on my LinkedIn profile https://www.linkedin.com/in/mirsad-vejsili-563538199 , available also in both Italian and English languages.
 
 My first interests are propulsion and flight physics. I want to contribute to the next generation of aircraft engines and vehicles.
-
+<p align="center">
+  <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_no8onn3Sks1qk4ealo4_500.gif" alt="Your Image Description" width=256 >
+</p>
 
 Now, I am ready to tackle new challenges.
 <p align="center">
@@ -17,7 +19,9 @@ Now, I am ready to tackle new challenges.
 * 🔧 Python, ANSYS CFX/Turbogrid/BladeGen, Gambit, Pointwise, LabVIEW, FORTRAN, openFOAM, SOLIDWORKS
 * 🔨 Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi
 
- 
+ <p align="center">
+  <img src="https://github.com/vejsili/vejsili/blob/main/giphy.gif" alt="Your Image Description" width=256 >
+</p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vejsili)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mirsad-vejsili-563538199)  
