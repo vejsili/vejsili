@@ -14,6 +14,9 @@ Now, I am ready to tackle new challenges.
 </p>
 
 
+[Simulink](https://github.com/vejsili/voyager)
+
+
 ## Skills: 
 * 🏆 [MATLAB ](https://github.com/vejsili/vejsili/blob/main/Vejsili_Mirsad_MATLAB.pdf), GASTURB, ANSYS Fluent
 * 🔧 Python, Gambit, Pointwise, FORTRAN, openFOAM, SOLIDWORKS, LabVIEW, Wireshark
