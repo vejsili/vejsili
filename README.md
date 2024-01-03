@@ -1,7 +1,7 @@
 # Aerospace Engineer
 ![Aerospace Engineer](https://github.com/vejsili/vejsili/blob/main/2024_01_02_gh_Piaggio1.jpg)
 
-I am Eng. Mirsad Vejsili. Last March I graduated from the Università degli Studi di Padova in Aerospace Engineering, Aeronautical curriculum. I work at TXT e-tech. In 2023 I was engaged as a consultant for Piaggio Aerospace. The project ended successfully last December. You can find some article and posts on my LinkedIn profile https://www.linkedin.com/in/mirsad-vejsili-563538199 , available in both Italian and English languages.
+I am Eng. Mirsad Vejsili. Last March I graduated from the Università degli Studi di Padova in Aerospace Engineering, with Aeronautical curriculum. I work at TXT e-tech. In 2023 I was engaged as a consultant for Piaggio Aerospace. The project ended successfully last December. You can find some article and posts on my LinkedIn profile https://www.linkedin.com/in/mirsad-vejsili-563538199 , available in both Italian and English languages.
 
 My first interests are propulsion and flight physics. I want to contribute to the next generation of aircraft engines and vehicles.
 <p align="center">
@@ -18,6 +18,16 @@ Now, I am ready to tackle new challenges.
 * 🏆 [MATLAB ](https://github.com/vejsili/vejsili/blob/main/Vejsili_Mirsad_MATLAB.pdf), GASTURB, ANSYS Fluent
 * 🔧 Python, Gambit, Pointwise, FORTRAN, openFOAM, SOLIDWORKS, LabVIEW, Wireshark
 * 🔨 ANSYS CFX/Turbogrid/BladeGen, Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi, GMAT, C
+
+  ## Experience
+  * Fluid dynamics
+  * Propulsion
+  * Aerodynamics, gasdynamics
+  * Turbomachinery
+  * Classical and advanced optimization methods
+  * Machine learning, surrogate modelling
+  * Lab activities: testing with PXI instrumentation, from building test cases to post-processing 
+  * Manage requirements from Interface Control Document (ICD) 
 
  <p align="center">
   <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_no8onn3Sks1qk4ealo4_500.gif" >
