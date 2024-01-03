@@ -27,7 +27,7 @@ Now, I am ready to tackle new challenges.
   * Classical and advanced optimization methods
   * Machine learning, surrogate modelling
   * Flight mechanics
-  * Lab activities: testing flight control surfaces and multiple probes with PXI instrumentation, from building test cases to post-processing 
+  * Lab activities: testing flight control surfaces and multiple probes with NI instrumentation (e.g. PXI), from building test cases to post-processing 
   * Manage requirements from Interface Control Document (ICD) 
 
  <p align="center">
