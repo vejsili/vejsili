@@ -3,8 +3,7 @@
 
 I am Eng. Mirsad Vejsili. The 7th March I graduated from the Università degli Studi di Padova in Aerospace Engineering, with Aeronautical curriculum. I work at TXT e-tech. In 2023 I was engaged as a consultant for Piaggio Aerospace. The project ended successfully last December. You can find some article and posts on my LinkedIn profile https://www.linkedin.com/in/mirsad-vejsili-563538199 , available in both Italian and English languages.
 
-My first interests are propulsion and flight physics. I want to contribute to the next generation of aircraft engines and vehicles, and I am proud to have started this path through the M.Sc. Thesis and my first industrial job experience at Piaggio Aerospace.
-At Piaggio Aerospace was awesome to assist engine tests on their rigs. 
+My first interests are propulsion and flight physics. I want to contribute to the next generation of aircraft engines and vehicles, and I am proud to have started this path through the M.Sc. Thesis and my first industrial job experience at Piaggio Aerospace, where I had also assisted engine tests on their rigs. 
 <p align="center">
   <img src="https://github.com/vejsili/vejsili/blob/main/giphy.gif">
 </p>
