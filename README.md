@@ -38,6 +38,6 @@ Now, I am ready to tackle new challenges.
   <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_no8onn3Sks1qk4ealo4_500.gif" >
 </p>
 
-
+The end.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vejsili)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mirsad-vejsili-563538199)  
 
