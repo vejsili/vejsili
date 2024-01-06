@@ -19,7 +19,7 @@ The master thesis was on the design of a Variable Area Nozzle (VAN) for Ultra-Hi
 Those 2 main experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in Aerospace by sailing new routes, encounter new people, being tested in new environments.
 
 <p align="center">
-  <img src="https://github.com/vejsili/vejsili/blob/main/NewRoutes.gif"  width=256 >
+  <img src="https://github.com/vejsili/vejsili/blob/main/NewRoutes.gif"  width=600 >
 </p>
 
 
