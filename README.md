@@ -6,16 +6,18 @@ I am Eng. Mirsad Vejsili, graduated from the **Università degli Studi di Padova
 
 I am enthusiast to share a piece of the company's noticeboard on the image above. Instead below, that's me :grin: 
 ![Me](https://github.com/vejsili/vejsili/blob/main/ImageVM1.JPG)
+Let me say, Riviera Ligure is extremely beatiful, and I am happy to have spent time in there.
 
 
+My first interests are propulsion and flight physics, but in general Aeronautics and Space fields. I want to contribute to the next generation of aircraft engines and vehicles, and I am proud to have started this path through the M.Sc. Thesis and my first industrial job experience at Piaggio Aerospace, where I had also assisted activities on engine test rigs.
+The master thesis was on the design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan engine, from scratch. The baseline of the engine was a real baseline of UHBPR turbofan, given by one of the major aircraft engine designer and manufacturers in the world.
 
-My first interests are propulsion and flight physics. I want to contribute to the next generation of aircraft engines and vehicles, and I am proud to have started this path through the M.Sc. Thesis and my first industrial job experience at Piaggio Aerospace, where I had also assisted activities on engine test rigs.
-The master thesis was on the design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan engine, from scratch. The baseline of the engine was the real baseline of a UHBPR turbofan given by one of the major aircraft engine designer and manufacturers in the world.
+
 <p align="center">
   <img src="https://github.com/vejsili/vejsili/blob/main/giphy.gif">
 </p>
+Those 2 main experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in Aerospace by sailing new routes, encounter new people, being tested in new environments.
 
-Now, I am ready to tackle new challenges.
 <p align="center">
   <img src="https://github.com/vejsili/vejsili/blob/main/tumblr_e450c41333cba82cc6ec0f2a4795315c_b8338fc2_500.webp" alt="Your Image Description" width=256 >
 </p>
