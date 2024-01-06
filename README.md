@@ -1,4 +1,4 @@
-# Aerospace Engineer
+# MIRSAD VEJSILI - AEROSPACE ENGINEER
 ![Aerospace Engineer](https://github.com/vejsili/vejsili/blob/main/2024_01_02_gh_Piaggio1.jpg)
 
 I am Eng. Mirsad Vejsili. The 7th March I graduated from the Università degli Studi di Padova in Aerospace Engineering, with Aeronautical curriculum. I work at TXT e-tech. In 2023 I was engaged as a consultant for Piaggio Aerospace. The project ended successfully last December. You can find some article and posts on my LinkedIn profile https://www.linkedin.com/in/mirsad-vejsili-563538199 , available in both Italian and English languages.
