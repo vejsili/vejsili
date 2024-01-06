@@ -1,7 +1,13 @@
-# MIRSAD VEJSILI - AEROSPACE ENGINEER
+# Overview
 ![Aerospace Engineer](https://github.com/vejsili/vejsili/blob/main/2024_01_02_gh_Piaggio1.jpg)
+(Credits: Piaggio Aerospace)
 
-I am Eng. Mirsad Vejsili. The 7th March I graduated from the Università degli Studi di Padova in Aerospace Engineering, with Aeronautical curriculum. I work at TXT e-tech. In 2023 I was engaged as a consultant for Piaggio Aerospace. The project ended successfully last December. You can find some article and posts on my LinkedIn profile https://www.linkedin.com/in/mirsad-vejsili-563538199 , available in both Italian and English languages.
+I am Eng. Mirsad Vejsili, graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**, with*Aeronautical curriculum*. I work at TXT e-tech and was engaged as a consultant for Piaggio Aerospace until the end of 2023 when the project I was working on ended successfully. You can find some article and posts on my LinkedIn profile https://www.linkedin.com/in/mirsad-vejsili-563538199, available in both Italian and English languages. Otherwise, check Piaggio Aerospace's posts.
+
+I am enthusiast to share a piece of the company's noticeboard on the image above. Instead below, that's me :grin: 
+![Me](https://github.com/vejsili/vejsili/blob/main/ImageVM1.JPG)
+
+
 
 My first interests are propulsion and flight physics. I want to contribute to the next generation of aircraft engines and vehicles, and I am proud to have started this path through the M.Sc. Thesis and my first industrial job experience at Piaggio Aerospace, where I had also assisted activities on engine test rigs.
 The master thesis was on the design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan engine, from scratch. The baseline of the engine was the real baseline of a UHBPR turbofan given by one of the major aircraft engine designer and manufacturers in the world.
