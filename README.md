@@ -1,15 +1,18 @@
-<center>
-# Overview 
-</center>
+# AEROSPACE ENGINEER
 
 ![Aerospace Engineer](https://github.com/vejsili/vejsili/blob/main/2024_01_02_gh_Piaggio1.jpg)
-(Credits: Piaggio Aerospace)
+(Credits: Piaggio Aerospace - noticeboard at the quarter of Piaggio Aerospace in Villanova d'Albenga)
 
-I am Eng. Mirsad Vejsili, graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**, with*Aeronautical curriculum*. I work at TXT e-tech and was engaged as a consultant for Piaggio Aerospace until the end of 2023 when the project I was working on ended successfully. You can find some article and posts on my LinkedIn profile https://www.linkedin.com/in/mirsad-vejsili-563538199, available in both Italian and English languages. Otherwise, check Piaggio Aerospace's posts.
+Let me introduce myself :airplane: I am Eng. Mirsad Vejsili, graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**, with *Aeronautical curriculum*. My objective is to have a career in Aerospace. I am fascinated by aeronautics and space missions.
 
-I am enthusiast to share a piece of the company's noticeboard on the image above. Instead below, that's me :grin: 
+I am happy to have started this path through relevant projects and the Master Thesis at the Università degli Studi di Padova, and even with my first job experience:
+
+* M.Sc. Thesis on the design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan
+* First job experience on the Clean Sky 2 "Small Air Transport (SAT)" framework at TXT e-tech as a consultant for Piaggio Aerospace, in Villanova d'Albenga, Italy
+
+By the way, :arrow_heading_down: that's me :grin: 
 ![Me](https://github.com/vejsili/vejsili/blob/main/ImageVM1.JPG)
-Let me say, Riviera Ligure is extremely beatiful, and I am happy to have spent time in there.
+Let me say Riviera Ligure is extremely beatiful, and I am happy to have spent time in there.
 
 
 My first interests are propulsion and flight physics, but in general Aeronautics and Space fields. I want to contribute to the next generation of aircraft engines and vehicles, and I am proud to have started this path through the M.Sc. Thesis and my first industrial job experience at Piaggio Aerospace, where I had also assisted activities on engine test rigs.
