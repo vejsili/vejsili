@@ -7,8 +7,8 @@ Let me introduce myself :airplane: I am Eng. Mirsad Vejsili, graduated from the 
 
 I am happy to have started this path through relevant projects and the Master Thesis at the Università degli Studi di Padova, and even with my first job experience:
 
-* M.Sc. Thesis on the design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan
-* First job experience on the Clean Sky 2 "Small Air Transport (SAT)" framework at TXT e-tech as a consultant for Piaggio Aerospace, in Villanova d'Albenga, Italy
+* **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan_
+* **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ framework at **TXT e-tech** as a consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
 
 By the way, :arrow_heading_down: that's me :grin: 
 ![Me](https://github.com/vejsili/vejsili/blob/main/ImageVM1.JPG)
