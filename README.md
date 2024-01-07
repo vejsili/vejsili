@@ -10,7 +10,7 @@ I am proud to have started this path through relevant projects and the Master Th
 
 * **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan_
 * **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ at **TXT e-tech** as a consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
-* Academic projects: 
+* **Academic projects**: 
     * 6-DoF aircraft simulator in MATLAB Simulink
     * LES simulation of a turbulent channel in OpenFOAM
     * Numerical simulation of the Navier-Stokes equations - incompressible, 2D flow simulation with staggered Finite Difference (FD) in FORTRAN
