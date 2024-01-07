@@ -20,7 +20,7 @@ Let me say Riviera Ligure is extremely beatiful, and I am happy to have spent ti
 <p align="center">
   <img src="https://github.com/vejsili/vejsili/blob/main/giphy.gif">
 </p>
-Those 2 main experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in Aerospace by sailing new routes, encounter new people, being tested in new environments.
+Those two main experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter new brilliant colleagues, and being tested in new environments.
 
 <p align="center">
   <img src="https://github.com/vejsili/vejsili/blob/main/NewRoutes.gif"  width=600 >
