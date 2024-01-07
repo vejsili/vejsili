@@ -3,20 +3,18 @@
 ![Aerospace Engineer](https://github.com/vejsili/vejsili/blob/main/2024_01_02_gh_Piaggio1.jpg)
 (Credits: Piaggio Aerospace - noticeboard at the quarter of Piaggio Aerospace in Villanova d'Albenga)
 
-Let me introduce myself :airplane: I am Eng. Mirsad Vejsili, graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**, with *Aeronautical curriculum*. My objective is to have a career in Aerospace. I am fascinated by aeronautics and space missions.
+Let me introduce myself :airplane: I am Eng. Mirsad Vejsili, graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**, with *Aeronautical curriculum*. My objective is to have a career in Aerospace as I am fascinated by aeronautics and space missions.
 
-I am happy to have started this path through relevant projects and the Master Thesis at the Università degli Studi di Padova, and even with my first job experience:
+I want to contribute to the next generation of aircraft engines and vehicles.
+I am proud to have started this path through relevant projects and the Master Thesis at the Università degli Studi di Padova, and even with my first job experience:
 
 * **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan_
-* **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ framework at **TXT e-tech** as a consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
+* **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ at **TXT e-tech** as a consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
 
 By the way, :arrow_heading_down: that's me :grin: 
 ![Me](https://github.com/vejsili/vejsili/blob/main/ImageVM1.JPG)
 Let me say Riviera Ligure is extremely beatiful, and I am happy to have spent time in there.
 
-
-My first interests are propulsion and flight physics, but in general Aeronautics and Space fields. I want to contribute to the next generation of aircraft engines and vehicles, and I am proud to have started this path through the M.Sc. Thesis and my first industrial job experience at Piaggio Aerospace, where I had also assisted activities on engine test rigs.
-The master thesis was on the design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan engine, from scratch. The baseline of the engine was a real baseline of UHBPR turbofan, given by one of the major aircraft engine designer and manufacturers in the world.
 
 
 <p align="center">
@@ -33,16 +31,15 @@ Those 2 main experiences came to a successfull end, now I am eager to deepen my 
 
 
 ## Skills: 
-* 🏆 [MATLAB ](https://github.com/vejsili/vejsili/blob/main/Vejsili_Mirsad_MATLAB.pdf), GASTURB, ANSYS Fluent
-* 🔧 Python, Gambit, Pointwise, FORTRAN, openFOAM, SOLIDWORKS, LabVIEW, Wireshark, [Simulink](https://github.com/vejsili/voyager)
-* 🔨 ANSYS CFX/Turbogrid/BladeGen, Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi, GMAT, C
+* :artificial_satellite: [MATLAB ](https://github.com/vejsili/vejsili/blob/main/Vejsili_Mirsad_MATLAB.pdf), GASTURB, ANSYS Fluent
+* :helicopter: Python, Gambit, Pointwise, FORTRAN, openFOAM, SOLIDWORKS, LabVIEW, Wireshark, [Simulink](https://github.com/vejsili/voyager), Ansys CFX/Turbogrid/Bladegen
+* :ship: Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi, GMAT, C
 
-  ## Experience
-  * Fluid dynamics
+  ## Experience and some areas of interest
+  * Fluid dynamics, Aerodynamics, Gasdynamics
   * Propulsion
-  * Aerodynamics, gasdynamics
   * Turbomachinery
-  * Classical and advanced optimization methods
+  * Classical and advanced methods for optimization
   * Machine learning, surrogate modelling
   * Flight mechanics
   * Lab activities: testing flight control surfaces and multiple probes with NI instrumentation (e.g. PXI), from building test cases to post-processing 
