@@ -8,13 +8,14 @@ Let me introduce myself :airplane: I am Eng. Mirsad Vejsili, graduated from the 
 I want to contribute to the next generation of aircraft engines and vehicles.
 I am proud to have started this path through relevant projects and the Master Thesis at the Università degli Studi di Padova, and even with my first job experience:
 
-* **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan_
+
 * **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ at **TXT e-tech** as a consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
-* **Academic projects**: 
-    * 6-DoF aircraft simulator in MATLAB Simulink
-    * LES simulation of a turbulent channel in OpenFOAM
-    * Numerical simulation of the Navier-Stokes equations - incompressible, 2D flow simulation with staggered Finite Difference (FD) in FORTRAN
-    * Aerodynamic multi-objective optimization of NACA 65-(12)10 profile used in axial compressor 
+* **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan_
+* _Aerodynamic multi-objective optimization of NACA 65-(12)10 profile used in axial compressor_
+* **Other projects**: 
+    * _6-DoF aircraft simulator in MATLAB Simulink_
+    * _LES simulation of a turbulent channel in OpenFOAM_
+    * _Numerical simulation of the Navier-Stokes equations - incompressible, 2D flow simulation with staggered Finite Difference (FD) in FORTRAN_
 
 By the way, :arrow_heading_down: that's me :grin: 
 ![Me](https://github.com/vejsili/vejsili/blob/main/ImageVM1.JPG)
@@ -25,7 +26,7 @@ Let me say Riviera Ligure is extremely beatiful, and I am happy to have spent ti
 <p align="center">
   <img src="https://github.com/vejsili/vejsili/blob/main/giphy.gif">
 </p>
-Those two main experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter new brilliant colleagues, and being tested in new environments.
+Those previous experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments.
 
 <p align="center">
   <img src="https://github.com/vejsili/vejsili/blob/main/NewRoutes.gif"  width=600 >
