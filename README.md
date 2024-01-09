@@ -1,5 +1,5 @@
 # AEROSPACE ENGINEER
-
+ 
 ![Aerospace Engineer](https://github.com/vejsili/vejsili/blob/main/2024_01_02_gh_Piaggio1.jpg)
 (Credits: Piaggio Aerospace - noticeboard at the quarter of Piaggio Aerospace in Villanova d'Albenga)
 
