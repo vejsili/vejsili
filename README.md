@@ -22,7 +22,6 @@ By the way, :arrow_heading_down: that's me :grin:
 Let me say Riviera Ligure is extremely beatiful, and I am happy to have spent time in there.
 
 
-
 <p align="center">
   <img src="https://github.com/vejsili/vejsili/blob/main/giphy.gif">
 </p>
