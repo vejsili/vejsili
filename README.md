@@ -14,7 +14,7 @@ I am proud to have started this path through relevant projects :
 * **Other projects**: 
     * _6-DoF aircraft simulator in MATLAB Simulink_
     * _LES simulation of a turbulent channel in OpenFOAM_
-    * _Numerical simulation of the Navier-Stokes equations - incompressible, 2D flow simulation with staggered Finite Difference (FD) in FORTRAN_
+    * _Numerical simulation of the Navier-Stokes equations - incompressible, 2D flow, staggered Finite Difference (FD) in FORTRAN_
 
 By the way, :arrow_heading_down: that's me :grin: 
 ![Me](https://github.com/vejsili/vejsili/blob/main/ImageVM1.JPG)
