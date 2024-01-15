@@ -1,4 +1,9 @@
-# AEROSPACE ENGINEER
+# AEROSPACE ENGINEER <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_001_CompressorBlades.gif">
+---
+ <p align="center">
+  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_001_CompressorBlades.gif">
+</p>
+---
 
 Let me introduce myself :airplane: I am Eng. Mirsad Vejsili, graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**, with *Aeronautical curriculum*. My objective is to have a career in Aerospace as I am fascinated by aeronautics and space missions.
 
@@ -19,9 +24,6 @@ By the way, :arrow_heading_down: that's me :grin:
 Let me say Riviera Ligure is extremely beatiful, and I am happy to have spent time in there.
 
 
-<p align="center">
-  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_001_CompressorBlades.gif">
-</p>
 Those previous experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments.
 
 <p align="center">
