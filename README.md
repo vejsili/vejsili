@@ -15,17 +15,17 @@ I am proud to have started this path through relevant projects :
     * _Numerical simulation of the Navier-Stokes equations - incompressible, 2D flow, staggered Finite Difference (FD) in FORTRAN_
 
 By the way, :arrow_heading_down: that's me :grin: 
-![Me](https://github.com/vejsili/vejsili/blob/main/image_001_PA.jpg)
+![Me](https://github.com/vejsili/vejsili/blob/main/images/image_001_PA.jpg)
 Let me say Riviera Ligure is extremely beatiful, and I am happy to have spent time in there.
 
 
 <p align="center">
-  <img src="https://github.com/vejsili/vejsili/blob/main/gif_001_CompressorBlades.gif">
+  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_001_CompressorBlades.gif">
 </p>
 Those previous experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments.
 
 <p align="center">
-  <img src="https://github.com/vejsili/vejsili/blob/main/gif_002_NewRoutes.gif"  width=600 >
+  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  width=600 >
 </p>
 
 
@@ -48,7 +48,7 @@ Those previous experiences came to a successfull end, now I am eager to deepen m
   * Manage requirements from Interface Control Document (ICD) 
 
  <p align="center">
-  <img src="https://github.com/vejsili/vejsili/blob/main/gif_003_EngineTest.gif" >
+  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_003_EngineTest.gif" >
 </p>
 
 
