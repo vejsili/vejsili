@@ -1,4 +1,4 @@
-# AEROSPACE ENGINEER <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_001_CompressorBlades.gif" width=10>
+# AEROSPACE ENGINEER <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_001_CompressorBlades.gif" width=35>
 
 Let me introduce myself :airplane: I am Eng. Mirsad Vejsili, graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**, with *Aeronautical curriculum*. My objective is to have a career in Aerospace as I am fascinated by aeronautics and space missions.
 
