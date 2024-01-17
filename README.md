@@ -2,7 +2,7 @@
 
 Let me introduce myself :airplane: I am Eng. Mirsad Vejsili, graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**, with *Aeronautical curriculum*. My objective is to have a career in Aerospace as I am fascinated by aeronautics and space missions.
 
-I want to contribute to the next generation of aircraft engines and vehicles.
+I want to contribute to the next generation of aircraft, aero engines and take part in the new space economy.
 I am proud to have started this path through relevant projects :
 
 
