@@ -13,7 +13,7 @@ I am proud to have started this path through relevant projects :
     * _6-DoF aircraft simulator in MATLAB Simulink_
     * _LES simulation of a turbulent channel in OpenFOAM_
     * _Numerical simulation of the Navier-Stokes equations - incompressible, 2D flow, staggered Finite Difference (FD) in FORTRAN_
-    * _A simplified computation of ISS Docking from Molnija Orbit_
+    * _A simplified computation of ISS Docking from Molnija Orbit, with the support of GMAT_
 
 By the way, :arrow_heading_down: that's me :grin: 
 ![Me](https://github.com/vejsili/vejsili/blob/main/images/image_001_PA.jpg)
