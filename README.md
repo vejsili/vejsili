@@ -28,7 +28,7 @@ Those previous experiences came to a successfull end, now I am eager to deepen m
 
 ## Skills: 
 * :artificial_satellite: [MATLAB ](https://github.com/vejsili/vejsili/blob/main/Vejsili_Mirsad_MATLAB.pdf), GASTURB, ANSYS Fluent
-* :helicopter: Python, Gambit, Pointwise, FORTRAN, openFOAM, SOLIDWORKS, LabVIEW, Wireshark, [Simulink](https://github.com/vejsili/voyager), Ansys CFX/Turbogrid/Bladegen
+* :helicopter: Python, Gambit, Pointwise, FORTRAN, openFOAM, SOLIDWORKS, LabVIEW, Wireshark, [Simulink](https://github.com/vejsili/voyager), ANSYS CFX/Turbogrid/Bladegen
 * :ship: Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi, GMAT, C
 
   ## Experience and some areas of interest
