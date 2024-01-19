@@ -38,6 +38,7 @@ Those previous experiences came to a successfull end, now I am eager to deepen m
   * Classical and advanced methods for optimization
   * Machine learning, surrogate modelling
   * Flight mechanics
+  * Spacecraft systems
   * Lab activities: testing flight control surfaces and multiple probes with NI instrumentation (e.g. PXI), from building test cases to post-processing 
   * Manage requirements from Interface Control Document (ICD) 
 
