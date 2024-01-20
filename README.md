@@ -32,7 +32,7 @@ Those previous experiences came to a successfull end, now I am eager to deepen m
 * :ship: Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi, GMAT, C
 
   ## Experience and some areas of interest
-  * Fluid dynamics, Aerodynamics, Gasdynamics
+  
   * Propulsion
   * Turbomachinery
   * Classical and advanced methods for optimization
