@@ -1,6 +1,6 @@
 # AEROSPACE ENGINEER <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_001_CompressorBlades.gif" width=40>
 ![Me](https://github.com/vejsili/vejsili/blob/main/images/image_002_PAF.jpg)
-Let me introduce myself :airplane: I graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My objective is to have a career in same field as I am fascinated by aeronautics and space missions.
+Let me introduce myself :airplane: I graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My objective is to have a career in the same field as I am fascinated by aeronautics and space missions.
 
 In depth, I want to contribute to the next generation of aircraft and aero engines.
 I am proud to have started this path through relevant projects:
