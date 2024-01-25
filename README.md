@@ -1,10 +1,9 @@
 # AEROSPACE ENGINEER <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_001_CompressorBlades.gif" width=40>
 ![Me](https://github.com/vejsili/vejsili/blob/main/images/image_002_PAF.jpg)
-Let me introduce myself :airplane: I am Eng. Mirsad Vejsili, graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My objective is to have a career in Aerospace as I am fascinated by aeronautics and space missions.
+Let me introduce myself :airplane: I graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My objective is to have a career in Aerospace as I am fascinated by aeronautics and space missions.
 
-I want to contribute to the next generation of aircraft, aero engines and take part in the new space economy.
+In depth, I want to contribute to the next generation of aircraft and aero engines.
 I am proud to have started this path through relevant projects :
-
 
 * **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ at **TXT e-tech** as a consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
 * **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan engine_
@@ -15,16 +14,7 @@ I am proud to have started this path through relevant projects :
     * _Numerical simulation of the Navier-Stokes equations - incompressible, 2D flow, staggered Finite Difference (FD) in FORTRAN_
     * _A simplified computation of ISS Docking from Molnija Orbit, with the support of GMAT_
 
-
-
-
-
-
 Those previous experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments.  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  width=50 >
-
-
-
-
 
 ## Skills: 
 * :artificial_satellite: [MATLAB ](https://github.com/vejsili/vejsili/blob/main/Vejsili_Mirsad_MATLAB.pdf), GASTURB, ANSYS Fluent
