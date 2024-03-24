@@ -1,11 +1,11 @@
-# AEROSPACE ENGINEER <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_001_CompressorBlades.gif" width=40>
+#AEROSPACE ENGINEER <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_001_CompressorBlades.gif" width=40>
 ![Me](https://github.com/vejsili/vejsili/blob/main/images/image_002_PAF.jpg)
 Let me introduce myself :airplane: I graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My objective is to have a career in the same field as I am fascinated by aeronautics and space missions.
 
 In depth, I want to contribute to the next generation of aircraft and aero engines.
 I am proud to have started this path through relevant projects:
 
-* **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ at **TXT e-tech** as a consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
+* **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ as a **TXT e-tech** consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
 * **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan engine_
 * [_Aerodynamic multi-objective optimization of NACA 65-(12)10 profile used in axial compressor_](https://github.com/vejsili/voyager/blob/main/docs/Vejsili_Mirsad_Project_MAOM_rev4_Open.pdf)
 * **Other projects**: 
@@ -15,10 +15,12 @@ I am proud to have started this path through relevant projects:
     * _A simplified computation of ISS Docking from Molnija Orbit, with the support of GMAT_
 
 Those previous experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments.  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  width=50 >
+Today my commitment is dedicated to the embedded software development of the M346 Mission Computer (MC) at LEONARDO Aircraft Division, at the headquarter of Venegono Superiore (VA), Italy. 
+
 
 ## Skills: 
 * :artificial_satellite: [MATLAB ](https://github.com/vejsili/vejsili/blob/main/Vejsili_Mirsad_MATLAB.pdf), GASTURB, ANSYS Fluent
-* :helicopter: Python, Gambit, Pointwise, FORTRAN, openFOAM, SOLIDWORKS, LabVIEW, Wireshark, [Simulink](https://github.com/vejsili/voyager), ANSYS CFX/Turbogrid/Bladegen
+* :helicopter: Python, Gambit, Pointwise, FORTRAN, openFOAM, SOLIDWORKS, LabVIEW, Wireshark, [Simulink](https://github.com/vejsili/voyager), ANSYS CFX/Turbogrid/Bladegen, ada95
 * :ship: Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi, GMAT, C
 
   ## Experience and some areas of interest
