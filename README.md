@@ -14,9 +14,9 @@ I am proud to have started this path through relevant projects:
     * _Numerical simulation of the Navier-Stokes equations - incompressible, 2D flow, staggered Finite Difference (FD) in FORTRAN_
     * _A simplified computation of ISS Docking from Molnija Orbit, with the support of GMAT_
 
-Today my commitment is dedicated to the embedded software development of the M346 Mission Computer (MC) at LEONARDO Aircraft Division, at the headquarter of Venegono Superiore (VA), Italy. 
+Those previous experiences came to a successfull end, and today my commitment is dedicated to the embedded software development of the M346 Mission Computer (MC) at LEONARDO Aircraft Division, at the headquarter of Venegono Superiore (VA), Italy. 
 
-Those previous experiences came to a successfull end, now I am eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments.  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  width=50 >
+I am always eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments.  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  width=50 >
 
 
 ## Skills: 
