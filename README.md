@@ -23,9 +23,9 @@ I am always eager to deepen my knowledge, expertise and competences in the Aeros
  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif" style="width: 100%; height: auto; position: absolute; z-index: -1;" />
   <div style="position: relative; z-index: 1; padding: 20px;">
       
-        ## Your Title
+  ## Your Title
           
-            Your text goes here.
+  Text.
               
   </div>
 </div>
