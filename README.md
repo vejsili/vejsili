@@ -19,26 +19,6 @@ Those previous experiences came to a successfull end, and today my commitment is
 
 I am always eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments. In particular, I would like to specialize in engine design and test, aerodynamics and wind tunnel.  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  width=50 >
 
-<div style="position: relative;">
- <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif" style="width: 100%; height: auto; position: absolute; z-index: -1;" />
-  <div style="position: relative; z-index: 1; padding: 20px;">
-      
-  ## Your Title
-          
-  Text.
-              
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
-
 
 ## Skills: 
 * :artificial_satellite: [MATLAB ](https://github.com/vejsili/vejsili/blob/main/Vejsili_Mirsad_MATLAB.pdf), GASTURB, ANSYS Fluent
