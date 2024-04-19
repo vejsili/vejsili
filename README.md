@@ -1,5 +1,4 @@
-
-##AEROSPACE ENGINEER
+# AEROSPACE ENGINEER
 
 ![Me](https://github.com/vejsili/vejsili/blob/main/images/image_002_PAF.jpg)
 Let me introduce myself :airplane: I graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My objective is to have a career in the same field as I am fascinated by aeronautics and space missions.
