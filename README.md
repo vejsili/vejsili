@@ -17,16 +17,8 @@ I am proud to have started this path through relevant projects:
 
 Those previous experiences came to a successfull end, and today my commitment is dedicated to the embedded software development of the M346 Mission Computer (MC) at LEONARDO Aircraft Division, at the headquarter of Venegono Superiore (VA), Italy. 
 
+I am always eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments. In particular, I would like to specialize in engine design and test, aerodynamics and wind tunnel.  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  width=50 >
 
-<div style="position: relative;">
-  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  style=width:100%; height: auto; position: absolute; z-index:-1;" >
-  <div style="position: relative; z-index: 1; padding: 20px;"> 
-  
-  ## title
-  
-  I am always eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments. In particular, I would like to specialize in engine design and test, aerodynamics and wind tunnel.  img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  width=50 
-  </div>
-</div>
 
 
 ## Skills: 
