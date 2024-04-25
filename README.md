@@ -1,13 +1,13 @@
-# VEJSILI Mirsad - AEROSPACE ENGINEER / focus on Aircraft Propulsion, Aerodynamics and Flight Mechanics
+# Mirsad VEJSILI - Aerospace Engineer / focus on Aircraft Propulsion, Aerodynamics and Flight Mechanics
 
 ![Me](https://github.com/vejsili/vejsili/blob/main/images/image_002_PAF.jpg)
-Let me introduce myself :airplane: I graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My objective is to have a career in the same field as I am fascinated by aeronautics and space missions.
+I graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My primary objective is to become a design engineer in aviation business, or in the naval and space ones. 
 
 In depth, I want to contribute to the next generation of aircraft and aero engines.
 I am proud to have started this path through relevant projects:
 
-* **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ as a **TXT e-tech** consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
 * **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan engine_
+* **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ as a **TXT e-tech** consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
 * [_Aerodynamic Multi-Objective Optimization of a NACA 65-(12)10 Stator Cascade in an Axial Compressor_](https://github.com/vejsili/voyager/blob/main/docs/Vejsili_Mirsad_Project_MAOM_rev4_Open.pdf)
 * **Other projects**: 
     * _6-DoF aircraft simulator in MATLAB Simulink_
@@ -17,7 +17,7 @@ I am proud to have started this path through relevant projects:
 
 Those previous experiences came to a successfull end, and today my commitment is dedicated to the embedded software development of the M346 Mission Computer (MC) at LEONARDO Aircraft Division, at the headquarter of Venegono Superiore (VA), Italy. 
 
-I am always eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments. In particular, I would like to specialize in engine design and test, aerodynamics and wind tunnel.  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  width=50 >
+I am always eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments. In particular, I would like to specialize in engine design and test, aerodynamics, flight mechanics, aeroelasticity, and wind tunnel experimental campaigns.  <img src="https://github.com/vejsili/vejsili/blob/main/gif/gif_002_NewRoutes.gif"  width=50 >
 
 
 ## Skills: 
