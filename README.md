@@ -26,7 +26,8 @@ I am always eager to deepen my knowledge, expertise and competences in the Aeros
 * :ship: Glyph, NASTRAN/PATRAN, Paraview, gnuplot, open mpi, GMAT, C
 
   ## Experience and some areas of interest
-  
+
+  * Vehcile design
   * Propulsion
   * Turbomachinery
   * Classical and advanced methods for optimization
