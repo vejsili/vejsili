@@ -27,7 +27,7 @@ I am always eager to deepen my knowledge, expertise and competences in the Aeros
 
   ## Experience and some areas of interest
 
-  * Vehcile design
+  * Vehicle design
   * Propulsion
   * Turbomachinery
   * Classical and advanced methods for optimization
