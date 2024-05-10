@@ -1,10 +1,7 @@
 # Mirsad VEJSILI - Aerospace Engineer / focus on Aircraft Propulsion, Aerodynamics and Flight Mechanics
 
 ![Me](https://github.com/vejsili/vejsili/blob/main/images/image_002_PAF.jpg)
-I graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My primary objective is to become a design engineer in aviation business, or in the naval and space ones. 
-
-In depth, I want to contribute to the next generation of aircraft and aero engines.
-I am proud to have started this path through relevant projects:
+I graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My primary objective is to become a design engineer in the aviation industry, or within naval and space sectors, with a dynamic role that involves direct engagement with vehicles, experts, and even pilots. I aim to contribute to the next generation of aircraft and aero engines, and I am proud to have started this path through relevant projects:
 
 * **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan engine_
 * **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ as a **TXT e-tech** consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
@@ -17,7 +14,6 @@ I am proud to have started this path through relevant projects:
 
 Those previous experiences came to a successfull end, and today my commitment is dedicated to the embedded software development of the M346 Mission Computer (MC) at LEONARDO Aircraft Division, at the headquarter of Venegono Superiore (VA), Italy. 
 
-I am always eager to deepen my knowledge, expertise and competences in the Aerospace field by sailing new routes, encounter brilliant colleagues, and being tested in unexplored environments. In particular, I would like to specialize in engine and vehicle design and test, aerodynamics, flight mechanics, aeroelasticity, and wind tunnel experimental campaigns.
 
 
 ## Skills: 
@@ -28,6 +24,7 @@ I am always eager to deepen my knowledge, expertise and competences in the Aeros
   ## Experience and some areas of interest
 
   * Vehicle design
+  * Performance
   * Propulsion
   * Turbomachinery
   * Classical and advanced methods for optimization
