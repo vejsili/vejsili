@@ -5,7 +5,7 @@ I have graduated from the **Università degli Studi di Padova** in **Aerospace E
 
 * **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan engine_
 * **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ as a **TXT e-tech** consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
-* [_Aerodynamic Multi-Objective Optimization of a NACA 65-(12)10 Stator Cascade in an Axial Compressor_](https://github.com/vejsili/voyager/blob/main/docs/Vejsili_Mirsad_Project_MAOM_rev4_Open.pdf)
+* [_Aerodynamic Multi-Objective Optimization of a NACA 65-(12)10 Stator Cascade in Axial Compressor_](https://github.com/vejsili/voyager/blob/main/docs/Vejsili_Mirsad_Project_MAOM_rev4_Open.pdf)
 * **Other projects**: 
     * _6-DoF aircraft simulator in MATLAB Simulink_
     * _LES simulation of a turbulent channel in OpenFOAM_
