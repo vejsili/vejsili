@@ -1,7 +1,7 @@
 # Mirsad VEJSILI - Aerospace Engineer / focus on Aircraft Propulsion, Aerodynamics and Flight Mechanics
 
 ![Me](https://github.com/vejsili/vejsili/blob/main/images/image_002_PAF.jpg)
-I graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My primary objective is to have a dynamic role that involves direct engagement with vehicles, experts, and pilots, and to contribute to the next generation of aircraft and aero engines—a path I am proud to have started through relevant projects:
+I have graduated from the **Università degli Studi di Padova** in **Aerospace Engineering**. My primary objective is to have a dynamic role that involves direct engagement with vehicles, experts, and pilots, and to contribute to the next generation of aircraft and aero engines—a path I am proud to have started through relevant projects:
 
 * **M.Sc. Thesis**: _Design of a Variable Area Nozzle (VAN) for Ultra-High Bypass Ratio (UHBPR) turbofan engine_
 * **First job experience**: _Clean Sky 2 "Fly-By-Wire for Small Air Transport (SAT)"_ as a **TXT e-tech** consultant for **Piaggio Aerospace**, in Villanova d'Albenga, Italy
