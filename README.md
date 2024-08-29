@@ -11,9 +11,7 @@ I have graduated from the **Università degli Studi di Padova** in **Aerospace E
     * _LES simulation of a turbulent channel in OpenFOAM_
     * _Numerical simulation of the Navier-Stokes equations - incompressible, 2D flow, staggered Finite Difference (FD) in FORTRAN_
     * _A simplified computation of ISS Docking from Molnija Orbit, with the support of GMAT_
-
-Those previous experiences came to a successfull end, and today my commitment is dedicated to the embedded software development of the M346 Mission Computer (MC) at Leonardo-Aircraft Division, at the headquarter of Venegono Superiore (VA), Italy. 
-
+    * M346 Mission Computer software development, Leonardo Aircraft Division
 
 
 ## Skills: 
